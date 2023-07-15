@@ -20,4 +20,4 @@
 
 I'm always open to networking and collaboration. Feel free to reach out to me through my social media channels or email. Let's connect and create something amazing together!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/thepythoninja?label=Follow%20%40thepythoninja&style=social)](https://twitter.com/codakyello)
+https://twitter.com/codakyello
