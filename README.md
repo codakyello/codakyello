@@ -14,7 +14,12 @@
 - Python
 - HTML
 - CSS
-- JavaScript (currently learning)
+- JavaScript
+- React
+- Next
+- Node
+- MongoDB
+- SQl
 
 ## Let's Connect
 
