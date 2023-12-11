@@ -5,7 +5,6 @@
 ## About Me
 
 - 👀 I'm passionate about everything that entails code and software development.
-- 🌱 Currently, I'm focusing on learning JavaScript, while having a solid foundation in Python, HTML, and CSS.
 - 💞️ I'm eager to collaborate on awesome open-source projects and contribute to the development community.
 - 📫 You can reach me via Twitter [@codakYello](https://twitter.com/codakYello) or email me at [olaoluwathompson8@gmail.com](mailto:olaoluwathompson8@gmail.com).
 
