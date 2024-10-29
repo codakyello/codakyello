@@ -11,9 +11,11 @@
 ## Skills
 
 - Python
-- HTML
-- CSS
 - JavaScript
+- Typescript
+- Elixir
+- Dart
+- Flutter
 - React
 - Next
 - Node
