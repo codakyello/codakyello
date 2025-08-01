@@ -6,14 +6,13 @@
 
 - 👀 I'm passionate about everything that entails code and software development.
 - 💞️ I'm eager to collaborate on awesome open-source projects and contribute to the development community.
-- 📫 You can reach me via Twitter [@codakYello](https://twitter.com/codakYello) or email me at [olaoluwathompson8@gmail.com](mailto:olaoluwathompson8@gmail.com).
+- 📫 You can reach me via Twitter [@codakYello](https://twitter.com/rurothompson) or email me at [olaoluwathompson8@gmail.com](mailto:olaoluwathompson8@gmail.com).
 
 ## Skills
 
 - Python
 - JavaScript
 - Typescript
-- Elixir
 - Dart
 - Flutter
 - React
