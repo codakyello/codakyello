@@ -1,6 +1,6 @@
-# Olaoluwa Thompson
+# Olaoluwa Olorede
 
-👋 Hi, I'm Olaoluwa Thompson! Welcome to my GitHub profile.
+👋 Hi, I'm Olaoluwa Olorede! Welcome to my GitHub profile.
 
 ## About Me
 
