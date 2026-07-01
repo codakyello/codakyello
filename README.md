@@ -1,4 +1,4 @@
-# Edet Gideon
+# Olaoluwa Olorede
 
 👋 Hi, I'm Edet Gideon! Welcome to my GitHub profile.
 
