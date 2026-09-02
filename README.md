@@ -1,6 +1,6 @@
 # Olaoluwa Olorede
 
-👋 Hi, I'm Edet Gideon! Welcome to my GitHub profile.
+👋 Hi, I'm Olaoluwa Thompson! Welcome to my GitHub profile.
 
 ## About Me
 
