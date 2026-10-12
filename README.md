@@ -1,6 +1,6 @@
-# Olaoluwa Olorede
+# Olaoluwa Thompson
 
-👋 Hi, I'm Olaoluwa Olorede! Welcome to my GitHub profile.
+👋 Hi, I'm Olaoluwa Thompson! Welcome to my GitHub profile.
 
 ## About Me
 
@@ -20,6 +20,7 @@
 - Node
 - MongoDB
 - SQl
+- Elixir
 
 ## Let's Connect
 
