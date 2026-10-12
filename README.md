@@ -26,4 +26,4 @@
 
 I'm always open to networking and collaboration. Feel free to reach out to me through my social media channels or email. Let's connect and create something amazing together!
 
-https://twitter.com/codakyello
+https://twitter.com/rurothompson
